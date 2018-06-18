@@ -1,5 +1,5 @@
 {
-    "name": "hello-test", 
+    "name": "hello_test", 
     "version": "1.0.1", 
     "description": "Hello test to publish a node package to npmjs.com", 
     "main": "src/hello_test.js", 
