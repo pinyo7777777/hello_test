@@ -7,7 +7,7 @@
     },
     "repository": { 
       "type": "git",
-      "url": "git@github.com:beforesecond/hello-nextzy.git"
+      "url": "git@github.com:beforesecond/hello_test.git"
     },
     "keywords": [
       "npm",
@@ -16,7 +16,7 @@
     "author": "BeforeSecond",
     "license": "MIT", 
     "bugs": { 
-      "url": "https://github.com/beforesecond/hello-nextzy/issuess"
+      "url": "https://github.com/beforesecond/hello_test/issuess"
     },
     "homepage": "https://github.com/beforesecond/hello-nextzy/blob/master/README.md", 
     "devDependencies": { 
